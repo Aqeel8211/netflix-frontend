@@ -141,3 +141,17 @@ h2{
         height: 180px;
     }
 }
+
+.footer {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    /* border-top: 1px solid #333; */
+}
+
+.footer p {
+    margin: 0;
+}
